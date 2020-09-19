@@ -1,0 +1,25 @@
+body {
+    margin: auto;
+    max-width: 1024px;
+}
+
+header {
+    display: flex;
+    padding: 20px 10px 0;
+}
+
+header section {
+    padding-left: 20px;
+}
+
+.img-wrapper {
+    width: 260px;
+}
+
+.photo {
+    max-width: 100%;
+}
+
+main {
+    padding: 0 10px 20px;
+}
